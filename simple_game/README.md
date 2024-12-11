@@ -1,3 +1,6 @@
+# MY_SIMPLE_BASH_GAMES
+
+
 All the projects in this folder are games in form of bash scripts.
 
 
